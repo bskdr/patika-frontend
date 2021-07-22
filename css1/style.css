@@ -1,0 +1,66 @@
+/*All Pages*/
+body {
+    background-color: #EEEBDD;
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    color: cadetblue;
+}
+h2 {
+    color: coral;
+}
+h4 {
+    color: #EBA83A;
+}
+.alignCenter {
+    text-align: center;
+}
+ul,ol {
+    padding: 0px;
+}
+/* Home page section */
+.section p {
+    padding: 0px 50px;
+}
+#navbar {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+#navbar li {
+    padding: 5px;
+}
+.section ul li {
+    list-style-position: inside;
+}
+/*Vehicle Page Section*/
+.vehicleSection img {
+    width: 300px;
+    height: 300px;
+}
+
+.vehicleSection ol li {
+    list-style-position: inside;
+}
+
+/* About Us Section */
+.aboutUsSection {
+    margin: 0 200px;
+}
+
+/*Footer All Page*/
+.footer img {
+    width: 45px;
+    height: 45px;
+}
+
+.footer ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.footer ul li {
+    padding: 5px;
+}
